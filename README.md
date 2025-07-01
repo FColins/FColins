@@ -1,6 +1,6 @@
 # 👋 Hello!
 ## My name is Felipe Colins
-- Atualmente estou trabalhando em gestão e logistica.
+- Atualmente trabalho com gestão e logistica.
 - Atualmente estou aprendendo quality assurance.
 - Estou procurando colaborar em teste de qualidade.
 - Como entrar em contato comigo: felipe_colins@hotmail.com
